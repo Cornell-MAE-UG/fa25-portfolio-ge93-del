@@ -1,5 +1,84 @@
------
-layout: project
-title: MAE 4272 DESIGN Project
-description: Design Portfolio Submission
+---
+title: MAE 4272 – DESIGN Project
+image: /assets/images/mae4272-thumbnail.jpg
+---
 
+
+<div style="max-width: 800px; margin: 0 auto; padding: 2rem;">
+
+  <h1>Blade Design Project | MAE 4272</h1>
+
+  <h2>Project Overview</h2>
+  <p>
+  As part of MAE 4272 (Wind Energy Engineering), our team was tasked with the complete
+  design, manufacturing, and experimental evaluation of a small-scale horizontal-axis
+  wind turbine blade. The goal of the project was to translate aerodynamic theory into
+  a practical blade design capable of efficiently converting wind energy into mechanical
+  power under realistic operating conditions. In addition to aerodynamic performance,
+  the project required consideration of structural loading, manufacturing constraints,
+  and experimental repeatability. This work emphasized the engineering tradeoffs involved
+  in moving from idealized theory to a physical, testable system.
+  </p>
+
+  <h2>Design Process</h2>
+  <p>
+  The design process began by defining a target operating point, including tip speed
+  ratio and nominal wind speed, based on the limitations of the wind tunnel and test
+  apparatus. Blade Element Momentum (BEM) theory was then used to determine the optimal
+  radial distributions of chord length and twist angle required to achieve near-ideal
+  performance. Several design iterations were performed to refine the chord taper and
+  twist distribution while accounting for Reynolds number effects, airfoil performance,
+  and practical manufacturability. The final blade geometry was modeled in CAD and
+  prepared for additive manufacturing, ensuring consistency across blades and enabling
+  accurate experimental comparison.
+  </p>
+
+  <h2>Testing and Results</h2>
+  <p>
+  Following fabrication, the blades were tested in a controlled wind tunnel environment
+  to evaluate their aerodynamic performance. Experimental measurements included
+  rotational speed, torque, and power output across a range of wind speeds. These results
+  were compared directly against theoretical predictions generated from BEM analysis.
+  While the overall performance trends matched theoretical expectations, deviations were
+  observed due to aerodynamic losses, hub effects, manufacturing tolerances, and flow
+  nonuniformities. This comparison provided valuable insight into the limitations of
+  idealized models and highlighted the importance of experimental validation in turbine
+  design.
+  </p>
+
+  <h2>Personal Contribution</h2>
+  <p>
+  My primary contributions to the project included developing the blade geometry using
+  BEM theory, creating the CAD model for the final blade design, and supporting the
+  fabrication process. I also assisted with experimental testing and the analysis of
+  performance data, helping to interpret discrepancies between theoretical and
+  experimental results. In addition, I contributed to evaluating design tradeoffs related
+  to chord tapering and aerodynamic efficiency, and played a role in synthesizing results
+  into clear conclusions for reporting and presentation.
+  </p>
+
+<figure style="margin-bottom: 2rem;">
+  <img src="../../assets/images/mae4272-blade-cad.png"
+       alt="Wind turbine blade CAD model"
+       style="width: 100%; max-width: 700px; display: block; margin: 0 auto;">
+  <figcaption style="text-align: center; font-size: 0.9rem; margin-top: 0.5rem;">
+    Figure 1: CAD model of Experimental Wind Turbine
+  </figcaption>
+</figure>
+
+<figure style="margin-bottom: 2rem;">
+  <img src="../../assets/images/graph.png"
+       alt="Wind tunnel blade testing setup"
+       style="width: 100%; max-width: 700px; display: block; margin: 0 auto;">
+  <figcaption style="text-align: center; font-size: 0.9rem; margin-top: 0.5rem;">
+    Figure 2: Power Output Expectation vs Rotation Rate Experimental Results
+  </figcaption>
+</figure>
+
+
+
+
+  <p>
+
+
+</div>

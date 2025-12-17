@@ -1,0 +1,106 @@
+---
+title: MAE 4300 – Essay
+image: /assets/images/(fill in here)
+---
+
+<div style="max-width: 800px; margin: 0 auto; padding: 2rem;">
+
+  <h1>Ethical Analysis of the Boeing 737 MAX</h1>
+
+  <p>
+  The Boeing 737 MAX accidents demonstrate how ethical failures in engineering rarely
+  arise from a single technical flaw, but instead emerge from the interaction of
+  organizational pressure, incomplete communication, regulatory ambiguity, and weakened
+  safety culture. Central to this case was the Maneuvering Characteristics Augmentation
+  System (MCAS), a flight control system introduced to compensate for aerodynamic changes
+  in the aircraft design. While MCAS was intended to enhance safety, the decisions
+  surrounding its design, certification, disclosure, and implementation reveal systemic
+  ethical breakdowns that ultimately led to catastrophic outcomes.
+  </p>
+
+  <p>
+  One of the most significant ethical issues in this case was the lack of transparency
+  surrounding MCAS. Boeing did not adequately disclose the system’s existence, authority,
+  or behavior to pilots or airlines prior to the aircraft entering service. As a result,
+  flight crews were unaware that MCAS relied on a single angle-of-attack sensor or that it
+  could repeatedly command nose-down inputs. Ethical engineering practice requires that
+  safety-critical systems be clearly communicated to those responsible for operating them.
+  By withholding this information, Boeing undermined informed decision-making and violated
+  the obligation to prioritize public safety over commercial considerations.
+  </p>
+
+  <p>
+  Competitive and organizational pressures further compounded these ethical concerns.
+  Facing intense market competition, Boeing prioritized rapid certification and minimal
+  pilot retraining requirements in order to maintain commercial advantage. Engineers
+  operated under compressed schedules and limited testing conditions, which contributed
+  to insufficient evaluation of MCAS failure modes. These decisions introduced single
+  points of failure into a safety-critical system. While cost and schedule constraints are
+  common in industry, ethical responsibility requires that they never override adequate
+  testing, redundancy, and risk mitigation.
+  </p>
+
+  <p>
+  The regulatory environment also played a critical role in the ethical failures of this
+  case. The FAA’s delegation of certification authority to Boeing created conflicts of
+  interest and weakened independent oversight. Engineers were placed in positions where
+  compliance became an internal process rather than an external safeguard. Ethical
+  responsibility in engineering extends beyond simply meeting regulatory requirements; it
+  includes advocating for additional protections when existing processes are insufficient
+  to ensure public safety.
+  </p>
+
+  <p>
+  Pilot training and operational readiness represented another major ethical failure.
+  MCAS was introduced without dedicated pilot training, and early flight manuals omitted
+  references to the system entirely. As a result, pilots encountering MCAS malfunctions
+  lacked both awareness and procedural guidance. Ethical engineering practice demands that
+  new technologies be accompanied by appropriate training and documentation, especially
+  when failures can have immediate and irreversible consequences. Cost-saving decisions
+  that reduced training directly contributed to the inability of flight crews to respond
+  effectively during emergencies.
+  </p>
+
+  <p>
+  Following the first crash, Boeing’s decision to continue operating the aircraft without
+  grounding the fleet further highlighted ethical shortcomings. Despite emerging evidence
+  of systemic issues, commercial and reputational concerns delayed decisive action.
+  Ethical principles clearly indicate that when public safety is at risk, precaution must
+  take precedence over economic impact. Continuing operations after credible warning signs
+  disregarded the responsibility to prevent foreseeable harm.
+  </p>
+
+  <p>
+  When evaluated through established engineering ethics frameworks, public safety
+  consistently outweighs employer loyalty, regulatory compliance, or financial incentives.
+  Conflicts between ethical principles must be resolved by prioritizing the protection of
+  human life, even when doing so carries organizational or professional consequences. The
+  Boeing 737 MAX case illustrates the dangers of fragmented responsibility and emphasizes
+  the need for transparency, rigorous testing, independent oversight, and ethical courage
+  within engineering organizations.
+  </p>
+
+  <p>
+  Ultimately, this case demonstrates that engineering decisions do not exist in isolation.
+  Technical competence, ethical responsibility, and organizational culture are deeply
+  interconnected. Preventing similar failures in the future requires systemic changes
+  that empower engineers to prioritize safety, encourage dissent when risks are identified,
+  and reinforce accountability at every stage of the design and certification process.
+  </p>
+
+  <div style="margin-top: 3rem; text-align: center;">
+    <a href="{{ '/projects/' | relative_url }}"
+       style="
+         display: inline-block;
+         padding: 0.6rem 1.2rem;
+         border: 1px solid #333;
+         border-radius: 6px;
+         text-decoration: none;
+         font-weight: 500;
+         color: #333;
+       ">
+      ← Back to Projects
+    </a>
+  </div>
+
+</div>

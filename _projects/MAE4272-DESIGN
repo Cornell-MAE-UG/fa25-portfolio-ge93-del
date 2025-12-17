@@ -1,6 +1,6 @@
 ---
 title: MAE 4272 – DESIGN Project
-image: /assets/images/mae4272-thumbnail.jpg
+image: /assets/images/mae4272-thumbnail.jpeg
 ---
 
 
@@ -80,5 +80,19 @@ image: /assets/images/mae4272-thumbnail.jpg
 
   <p>
 
+<div style="margin-top: 3rem; text-align: center;">
+  <a href="{{ '/projects/' | relative_url }}"
+     style="
+       display: inline-block;
+       padding: 0.6rem 1.2rem;
+       border: 1px solid #333;
+       border-radius: 6px;
+       text-decoration: none;
+       font-weight: 500;
+       color: #333;
+     ">
+    ← Back to Projects
+  </a>
+</div>
 
 </div>

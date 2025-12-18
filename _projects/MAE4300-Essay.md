@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Ethical Analysis of the Boeing 737 MAX
-display_title: MAE 4300 – Ethics Essay
 permalink: /projects/MAE4300-Essay/
 image: /assets/images/4300thumbnail.jpeg
+
 ---
 
 
